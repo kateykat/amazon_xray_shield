@@ -19,6 +19,7 @@ Note that if it does not work, hard refresh your page (control + shift + r) and 
 * amazon.com.mx
 * amazon.com.br
 * amazon.cn
+* primevideo.com
 
 If your amazon domain is not in the above list, this extension **WILL NOT** work for you.
 

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Amazon XRay Shield",
-  "version": "1.23",
+  "version": "1.24",
 
   "description": "Removes the X-Ray node from Amazon while watching videos",
 
@@ -25,7 +25,7 @@
         "*://*.amazon.com.mx/*",
         "*://*.amazon.com.br/*",
         "*://*.amazon.cn/*",
-        "*://*primevideo.com/*"
+        "*://*.primevideo.com/*"
       ],
       "js": ["xrayshield.js"]
     }
